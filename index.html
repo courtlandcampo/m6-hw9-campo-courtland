@@ -7,6 +7,7 @@
     <title>Today's Weather</title>
 
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://use.typekit.net/ecx5fzp.css">
 </head>
 <body>
     <header>
@@ -14,14 +15,21 @@
         <h1>CITY</h1>
     </header>
 
-    <main>
+    <main class="container">
+        <section id="form"></section>
+        <form>
+            <input type="text" placeholder="Search Location"/>
+            <button>Search</button>
+        </form>
+        <!--
         <h2>The weather today is:</h2>
-        <h3>WEATHER</h3>
+        <h3>WEATHER</h3>-->
     </main>
 
     <footer>
        <p>Have a great day!</p>
     </footer>
     
+    <script src="main.js"></script>
 </body>
 </html>
