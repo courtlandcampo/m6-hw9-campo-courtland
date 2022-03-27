@@ -1,3 +1,13 @@
+ISSUES: a few with returns concerning java but eventually trial and errored my way through
+CSS challenges. Like I forgot about display-flex and how to make the footer stay at the bottom
+
+RESOURCES: 
+https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/
+
+https://www.w3schools.com/cssref/pr_class_display.asp
+
+Links provided
+
 # Weather Widget
 
 &nbsp;
