@@ -23,7 +23,7 @@ form.onsubmit = function(functionEvent) {
 
   .catch(function(error) {
     console.log(error);
-    document.getElementById('weather').innerHTML = "Location not found."
+    document.getElementById('weather').innerHTML = "<p>Location not found.</p>"
   })
 }
 
