@@ -132,3 +132,22 @@ footer p{
     margin: 1em;
     color: #f5fafd;
 }
+
+@media screen and (min-width: 650px){
+    h2,h3{
+        margin-top: 1em;
+    }
+
+    header{
+        margin-top: 5%;
+    }
+    
+    input{
+        width: 50%;
+        height: 2em;
+        font-family: gimlet-display, serif;
+        font-weight: 400;
+        border-radius: 5px;
+    }
+
+}
