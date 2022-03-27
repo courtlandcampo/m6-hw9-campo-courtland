@@ -43,3 +43,37 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+/* CUSTOM */
+
+body{
+    background-image: linear-gradient(#2474aa,#92cbf1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    margin: 0;
+}
+
+header{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+h1{
+    font-family: gimlet-display, serif;
+    font-weight: 700;
+    color: #ffffff;
+    text-align: center;
+    font-size: 3em;
+}
+
+h2{
+    font-family: gimlet-display, serif;
+    font-weight: 400;
+    font-style: italic;
+    color: #ffffff;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 10%;
+}
